@@ -91,7 +91,7 @@
             this.Dodaj.Name = "Dodaj";
             this.Dodaj.Size = new System.Drawing.Size(75, 23);
             this.Dodaj.TabIndex = 4;
-            this.Dodaj.Text = "Dodaj";
+            this.Dodaj.Text = "Dodać";
             this.Dodaj.UseVisualStyleBackColor = true;
             this.Dodaj.Click += new System.EventHandler(this.Dodaj_Click);
             // 
@@ -101,7 +101,7 @@
             this.Odejmnij.Name = "Odejmnij";
             this.Odejmnij.Size = new System.Drawing.Size(75, 23);
             this.Odejmnij.TabIndex = 5;
-            this.Odejmnij.Text = "Odejmij";
+            this.Odejmnij.Text = "Odjąć";
             this.Odejmnij.UseVisualStyleBackColor = true;
             this.Odejmnij.Click += new System.EventHandler(this.Odejmnij_Click);
             // 
@@ -119,9 +119,9 @@
             // 
             this.Podziel.Location = new System.Drawing.Point(100, 191);
             this.Podziel.Name = "Podziel";
-            this.Podziel.Size = new System.Drawing.Size(75, 23);
+            this.Podziel.Size = new System.Drawing.Size(89, 23);
             this.Podziel.TabIndex = 7;
-            this.Podziel.Text = "Podziel";
+            this.Podziel.Text = "Podzielić przez";
             this.Podziel.UseVisualStyleBackColor = true;
             this.Podziel.Click += new System.EventHandler(this.Podziel_Click);
             // 
@@ -147,7 +147,7 @@
             this.potega.Name = "potega";
             this.potega.Size = new System.Drawing.Size(75, 23);
             this.potega.TabIndex = 10;
-            this.potega.Text = "Potega";
+            this.potega.Text = "Do Potęgi";
             this.potega.UseVisualStyleBackColor = true;
             this.potega.Click += new System.EventHandler(this.Potega_Click);
             // 

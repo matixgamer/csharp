@@ -49,6 +49,7 @@ namespace calculator
             try
             {
                 decimal wynik = pierwsza / druga;
+                textBox1.Text = wynik.ToString();
             }catch(DivideByZeroException)
             {
                 MessageBox.Show("BŁĄD");
