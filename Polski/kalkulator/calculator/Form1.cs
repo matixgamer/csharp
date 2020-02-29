@@ -22,7 +22,7 @@ namespace calculator
             decimal pierwsza = numericUpDown1.Value;
             decimal druga = numericUpDown2.Value;
             decimal wynik = pierwsza + druga;
-            Wynik.Text = wynik.ToString();
+            textBox1.Text = wynik.ToString();
         }
 
         private void Odejmnij_Click(object sender, EventArgs e)
@@ -30,7 +30,7 @@ namespace calculator
             decimal pierwsza = numericUpDown1.Value;
             decimal druga = numericUpDown2.Value;
             decimal wynik = pierwsza - druga;
-            Wynik.Text = wynik.ToString();
+            textBox1.Text = wynik.ToString();
         }
 
         private void Pomnóż_Click(object sender, EventArgs e)
@@ -38,7 +38,7 @@ namespace calculator
             decimal pierwsza = numericUpDown1.Value;
             decimal druga = numericUpDown2.Value;
             decimal wynik = pierwsza * druga;
-            Wynik.Text = wynik.ToString();
+            textBox1.Text = wynik.ToString();
         }
 
         private void Podziel_Click(object sender, EventArgs e)
@@ -76,7 +76,7 @@ namespace calculator
                 {
                     wynik = wynik * pierwsza;
                 }
-                Wynik.Text = wynik.ToString();
+                textBox1.Text = wynik.ToString();
             }
             catch
             {
