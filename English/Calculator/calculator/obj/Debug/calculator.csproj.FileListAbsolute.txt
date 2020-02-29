@@ -1,0 +1,37 @@
+C:\Users\13-19 lat\source\repos\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\13-19 lat\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\13-19 lat\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\13-19 lat\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\13-19 lat\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\13-19 lat\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\13-19 lat\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\13-19 lat\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\13-19 lat\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+D:\calculator\calculator\bin\Debug\calculator.exe.config
+D:\calculator\calculator\bin\Debug\calculator.exe
+D:\calculator\calculator\bin\Debug\calculator.pdb
+D:\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\calculator\calculator\obj\Debug\calculator.exe
+D:\calculator\calculator\obj\Debug\calculator.pdb
+D:\Polski\kalkulator\calculator\bin\Debug\calculator.exe.config
+D:\Polski\kalkulator\calculator\bin\Debug\calculator.exe
+D:\Polski\kalkulator\calculator\bin\Debug\calculator.pdb
+D:\Polski\kalkulator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\Polski\kalkulator\calculator\obj\Debug\calculator.Form1.resources
+D:\Polski\kalkulator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Polski\kalkulator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Polski\kalkulator\calculator\obj\Debug\calculator.exe
+D:\Polski\kalkulator\calculator\obj\Debug\calculator.pdb
+D:\English\Calculator\calculator\bin\Debug\calculator.exe.config
+D:\English\Calculator\calculator\bin\Debug\calculator.exe
+D:\English\Calculator\calculator\bin\Debug\calculator.pdb
+D:\English\Calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\English\Calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\English\Calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\English\Calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\English\Calculator\calculator\obj\Debug\calculator.exe
+D:\English\Calculator\calculator\obj\Debug\calculator.pdb
