@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fahrenheit_to_Celsius
+namespace Fahrenheit_do_Celsjusza
 {
     class Program
     {

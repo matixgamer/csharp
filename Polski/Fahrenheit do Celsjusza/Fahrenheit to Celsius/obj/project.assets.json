@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fahrenheit do Celsjusza\\Fahrenheit to Celsius\\Fahrenheit to Celsius.csproj",
+      "projectUniqueName": "D:\\Polski\\Fahrenheit do Celsjusza\\Fahrenheit to Celsius\\Fahrenheit to Celsius.csproj",
       "projectName": "Fahrenheit to Celsius",
-      "projectPath": "D:\\Fahrenheit do Celsjusza\\Fahrenheit to Celsius\\Fahrenheit to Celsius.csproj",
+      "projectPath": "D:\\Polski\\Fahrenheit do Celsjusza\\Fahrenheit to Celsius\\Fahrenheit to Celsius.csproj",
       "packagesPath": "C:\\Users\\mmwrz\\.nuget\\packages\\",
-      "outputPath": "D:\\Fahrenheit do Celsjusza\\Fahrenheit to Celsius\\obj\\",
+      "outputPath": "D:\\Polski\\Fahrenheit do Celsjusza\\Fahrenheit to Celsius\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmwrz\\AppData\\Roaming\\NuGet\\NuGet.Config",

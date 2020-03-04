@@ -20,3 +20,14 @@ D:\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenh
 D:\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenheit to Celsius.AssemblyInfo.cs
 D:\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenheit to Celsius.dll
 D:\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenheit to Celsius.pdb
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\bin\Debug\netcoreapp3.1\Fahrenheit to Celsius.exe
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\bin\Debug\netcoreapp3.1\Fahrenheit to Celsius.deps.json
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\bin\Debug\netcoreapp3.1\Fahrenheit to Celsius.runtimeconfig.json
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\bin\Debug\netcoreapp3.1\Fahrenheit to Celsius.runtimeconfig.dev.json
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\bin\Debug\netcoreapp3.1\Fahrenheit to Celsius.dll
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\bin\Debug\netcoreapp3.1\Fahrenheit to Celsius.pdb
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenheit to Celsius.csprojAssemblyReference.cache
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenheit to Celsius.AssemblyInfoInputs.cache
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenheit to Celsius.AssemblyInfo.cs
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenheit to Celsius.dll
+D:\Polski\Fahrenheit do Celsjusza\Fahrenheit to Celsius\obj\Debug\netcoreapp3.1\Fahrenheit to Celsius.pdb
