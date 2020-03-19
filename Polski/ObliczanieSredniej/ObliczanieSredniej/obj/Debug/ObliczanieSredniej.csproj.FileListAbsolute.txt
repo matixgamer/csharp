@@ -1,0 +1,10 @@
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\bin\Debug\ObliczanieSredniej.exe.config
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\bin\Debug\ObliczanieSredniej.exe
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\bin\Debug\ObliczanieSredniej.pdb
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\obj\Debug\ObliczanieSredniej.csprojAssemblyReference.cache
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\obj\Debug\ObliczanieSredniej.Form1.resources
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\obj\Debug\ObliczanieSredniej.Properties.Resources.resources
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\obj\Debug\ObliczanieSredniej.csproj.GenerateResource.cache
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\obj\Debug\ObliczanieSredniej.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\obj\Debug\ObliczanieSredniej.exe
+C:\Users\13-19 lat\source\repos\ObliczanieSredniej\ObliczanieSredniej\obj\Debug\ObliczanieSredniej.pdb

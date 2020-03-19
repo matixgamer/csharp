@@ -1,0 +1,7 @@
+C:\Users\13-19 lat\source\repos\przelicznikzlnaeuro\przelicznikzlnaeuro\bin\Debug\przelicznikzlnaeuro.exe.config
+C:\Users\13-19 lat\source\repos\przelicznikzlnaeuro\przelicznikzlnaeuro\bin\Debug\przelicznikzlnaeuro.exe
+C:\Users\13-19 lat\source\repos\przelicznikzlnaeuro\przelicznikzlnaeuro\bin\Debug\przelicznikzlnaeuro.pdb
+C:\Users\13-19 lat\source\repos\przelicznikzlnaeuro\przelicznikzlnaeuro\obj\Debug\przelicznikzlnaeuro.csprojAssemblyReference.cache
+C:\Users\13-19 lat\source\repos\przelicznikzlnaeuro\przelicznikzlnaeuro\obj\Debug\przelicznikzlnaeuro.csproj.CoreCompileInputs.cache
+C:\Users\13-19 lat\source\repos\przelicznikzlnaeuro\przelicznikzlnaeuro\obj\Debug\przelicznikzlnaeuro.exe
+C:\Users\13-19 lat\source\repos\przelicznikzlnaeuro\przelicznikzlnaeuro\obj\Debug\przelicznikzlnaeuro.pdb
